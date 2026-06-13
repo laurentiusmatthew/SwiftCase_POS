@@ -66,7 +66,7 @@ Ganti `ADMIN_PASSWORD` dan `JWT_SECRET` sebelum dipakai di produksi.
 
 ---
 
-## ⚙️ Konfigurasi (.env)
+## Konfigurasi (.env)
 
 Semua nilai sensitif dibaca dari environment (lihat `backend/.env.example`):
 
@@ -83,7 +83,7 @@ Semua nilai sensitif dibaca dari environment (lihat `backend/.env.example`):
 
 ---
 
-## 🔌 Ringkasan API
+## Ringkasan API
 
 Base URL: `/api`
 
