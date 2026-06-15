@@ -52,6 +52,8 @@ Saat pertama kali dijalankan, database otomatis dibuat dan diisi data contoh (pr
 ### Akun Default
 Admin : `admin`, `admin123`
 customer : `john@mail.com` `123456`
+
+### Pada deploy password admin diganti untuk keamanan
  
 Ganti `ADMIN_PASSWORD` dan `JWT_SECRET` sebelum dipakai di produksi.
 
